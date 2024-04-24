@@ -1,1 +1,6 @@
-alert('Olá,Mundo!')
+function verificar(){
+    var data = new Date()
+    var ano = data.getFullYear()
+    
+}
+alert(`${ano}`)
